@@ -1,6 +1,6 @@
 package com.springboot;
 
-import org.junit.jupiter.api.Test; // Changed to JUnit 5 import
+import org.junit.jupiter.api.Test; // Ensure you are using the JUnit 5 Test
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
